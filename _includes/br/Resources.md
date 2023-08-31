@@ -1,4 +1,4 @@
-- [Official documentation](https://docs.julialang.org/en/latest) .
+- [Official documentation](https://docs.julialang.org/) .
 - [Learning Julia](https://julialang.org/learning) page.
 - [Month of Julia](https://github.com/DataWookie/MonthOfJulia)
 - [Community standards](https://julialang.org/community/standards) .
